@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://github.com/hkpanghal/hkpanghal/blob/main/Neutral%20Simple%20Photo%20Photographer%20LinkedIn%20Banner.png">
 <!--
 **hkpanghal/hkpanghal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
