@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead]([https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in](https://github.com/hkpanghal/hkpanghal/blob/main/Neutral%20Simple%20Photo%20Photographer%20LinkedIn%20Banner.png))
+[![MasterHead]([[https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in](https://github.com/hkpanghal/hkpanghal/blob/main/Neutral%20Simple%20Photo%20Photographer%20LinkedIn%20Banner.png)](https://github.com/hkpanghal/hkpanghal/blob/852e30a1a7e50d9d237e7d2197fe223dc44db0b7/banner.png))
 
 
 <!--
