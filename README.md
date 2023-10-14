@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+
 
 <!--
 **hkpanghal/hkpanghal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Hans Kumar</h1>
-<img src="https://github.com/hkpanghal/hkpanghal/blob/main/Neutral%20Simple%20Photo%20Photographer%20LinkedIn%20Banner.png">
 <h3 align="center">A passionate software engineer and developer from Bharat(India)</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkpanghal&label=Profile%20views&color=0e75b6&style=flat" alt="hkpanghal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkpanghal" alt="hkpanghal" /></a> </p>
