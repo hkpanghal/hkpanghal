@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/hkpanghal/hkpanghal/blob/main/Neutral%20Simple%20Photo%20Photographer%20LinkedIn%20Banner.png">
+
 <!--
 **hkpanghal/hkpanghal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Hans Kumar</h1>
+<img src="https://github.com/hkpanghal/hkpanghal/blob/main/Neutral%20Simple%20Photo%20Photographer%20LinkedIn%20Banner.png">
 <h3 align="center">A passionate software engineer and developer from Bharat(India)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkpanghal&label=Profile%20views&color=0e75b6&style=flat" alt="hkpanghal" /> </p>
