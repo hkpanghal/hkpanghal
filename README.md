@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](banner.png)
+[![MasterHead]([banner.png](https://github.com/hkpanghal/hkpanghal/blob/8cf48dc3d18d222523308f04e7aa576ef01ff610/banner.png))
 
 
 <!--
